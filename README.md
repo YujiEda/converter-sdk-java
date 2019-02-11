@@ -75,34 +75,20 @@ The samples require a vSphere test environment with the following configuration:
 
 * 1 vCenter Server
 * 2 ESX hosts
-* 1 NFS Datastore with at least 3GB of free capacity
-
-Please have the details of these available, but do not have any configuration
-pre-created on vCenter server or ESXi Hosts (i.e. there should be no
-existing datacenters, clusters or attached hosts on the vCenter server).
 
 ### Running a sample
 
+TBD
+
 
 ## API Documentation
-The API documentation is in the
-`docs/apidocs/client/vsphereautomation-bindings` folder. Open the `index.html`
-files in your browser to view the documentation.
+
+TBD
 
 ## Submitting samples
 ### Required Information
-The following information must be in the README.md (or in the sample comments in
-case a README.md already exists in same folder).
 
-* Author Name
-  * This can include full name, email address or other identifiable piece of
-  information that would allow interested parties to contact author with
-  questions.
-* Date
-  * The date that the sample was originally written
-* Minimal/High Level Description
-  * What does the sample do? What is the purpose of the sample?
-* Any KNOWN limitations or dependencies
+TBD
 
 ### Suggested Information
 Include the following information when possible. Inclusion of information
@@ -132,30 +118,6 @@ board member can approve the update. Once approved, assuming the resolution
 involves a pull request, only a board member will be able to merge and close the
 request.
 
-### VMware Sample Exchange
-It is highly recommended to add all submitted samples to the [VMware Sample
-Exchange](https://code.vmware.com/samples).
-
-The Sample Exchange can access your GitHub resources by way of a linking
-process. The community can then search for those resources. There are VMware
-social media accounts which will advertise resources posted to the site. There
-are no additional accounts needed as the VMware Sample Exchange uses MyVMware
-credentials.
-
-## Repository Administrator Resources
-### Board Members
-
-
-Members:
-
-* J.R. Garcia (VMware)
-* Steve Trefethen (VMware)
-
-### Approval of Additions
-All items added to the repository, including items from the Board members,
-require two (2) votes from the board members for approval. The approving members
-ideally will have downloaded and tested the item. A board member will merge the
-pull request once two board members have given approval.
 
 ## VMware Resources
 * [vCenter Converter SDK Overview](https://www.vmware.com/support/developer/converter-sdk/)
