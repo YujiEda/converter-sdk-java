@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Abstract](#abstract)
 - [Quick Start Guide](#quick-start-guide)
-  - [Installing the required Java Packages](#installing-the-required-ruby-packages)
+  - [Installing the required Java Packages](#installing-the-required-java-packages)
   - [Installing the SDK](#installing-the-sdk)
   - [Uninstalling the SDK](#uninstalling-the-sdk)
   - [Setting up a vSphere Test Environment](#setting-up-a-vsphere-test-environment)
